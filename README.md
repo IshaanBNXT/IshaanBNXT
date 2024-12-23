@@ -1,56 +1,48 @@
 # Hi there, I'm Ishaan Sunita Pandita 👋
-### Data Engineer and Tech Intern at BharatNXT
+### Software Development Engineer at BharatNXT
 
 ## About Me
 
-I am a passionate Data Engineer currently interning at BharatNXT, where I work on leveraging data to drive insightful business decisions. My journey in tech has been shaped by hands-on experience in various facets of data engineering and analytics.
+I am a Software Development Engineer (SDE) delivering results in **Data Analytics**, **Data Engineering**, **Product Analytics**, **Generative AI** and **AI-ML**. At BharatNXT, I harness data-driven approaches to optimize product performance, build scalable systems, and innovate with cutting-edge AI solutions.
+
+My professional journey began with a tech internship, evolving into a full-time role where I combine analytical insights with engineering expertise to deliver impactful solutions.
+
+---
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/python.png" height="30"></td>
-    <td><b>Python</b></td>
-    <td>Utilizing Python for data manipulation, scripting, and automation.</td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" height="30"></td>
-    <td><b>Apps Script</b></td>
-    <td>Building custom functions and automations within Google Workspace.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/plasticine/50/000000/code.png" height="30"></td>
-    <td><b>Shell/Command Script</b></td>
-    <td>Writing scripts for automation and data processing tasks.</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="30"></td>
-    <td><b>PostgreSQL</b></td>
-    <td>Designing and optimizing relational databases for efficient data storage and retrieval.</td>
-  </tr>
-</table>
+### Programming Languages
 
-## Software, Tools and Platforms
+| Technology | Description |
+|------------|-------------|
+| <img src="https://img.icons8.com/color/48/000000/python.png" height="30"> **Python** | Data manipulation, scripting, and automation. |
+| <img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="30"> **SQL** | Designing and optimizing relational databases. |
+| <img src="https://img.icons8.com/plasticine/50/000000/code.png" height="30"> **Shell/Command Scripts** | Automation and data processing tasks. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" height="30"> **Google Apps Script** | Custom functions and automation within Google Workspace. |
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30"></td>
-    <td><b>Microsoft Power BI</b></td>
-    <td>Creating interactive dashboards and reports to visualize data trends.</td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" height="30"></td>
-    <td><b>Microsoft 365 Admin Centre</b></td>
-    <td>Managing and configuring Microsoft 365 services for organizational efficiency.</td>
-  </tr>
-  <tr>
-    <td><img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/GOOGLE-1920w.png" height="30"></td>
-    <td><b>Google Workspace Suite</b></td>
-    <td>Leveraging G Suite applications for collaborative projects and data handling.</td>
-  </tr>
-</table>
+### Data Engineering and Analytics
 
-<!---
-IshaanBNXT/IshaanBNXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Technology | Description |
+|------------|-------------|
+| <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30"> **Power BI** | Building interactive dashboards and insights. |
+| <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="30"> **Google Cloud** | Cloud-based data solutions and analytics. |
+| <img src="https://img.icons8.com/color/48/000000/google-logo.png" height="30"> **Google Gemini** | Generative AI solutions for advanced analytics. |
+
+---
+
+## Platforms and Tools
+
+| Tool | Description |
+|------|-------------|
+| <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/GOOGLE-1920w.png" height="30"> **Google Workspace Suite** | Collaboration and productivity tools. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" height="30"> **Microsoft 365** | Enterprise resource management. |
+| <img src="https://img.icons8.com/color/48/000000/git.png" height="30"> **Git/GitHub** | Version control and code collaboration. |
+
+---
+
+## Connect with Me
+
+- **LinkedIn**: [Ishaan Sunita Pandita](https://www.linkedin.com/in/ishaan-sunita-pandita/)
+- **Email**: ishaan.pandita@bharatnxt.com
+
+Let's innovate and build the future together! 🚀
